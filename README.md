@@ -4,4 +4,4 @@ This repository contains a number of textures I've created over the years. They'
 
 Most are just simple 16x16 RGBA sprites; of those that were intended to be animated, I have included accompanying `.mcmeta` files for the convenience of those interested in incorporating them into their own Minecraft mods. They vary in quality somewhat as they collectively represent approximately seven years of what I would like to believe is self-improvement.
 
-[Sample](samples.png)
+![Sample](samples.png)
