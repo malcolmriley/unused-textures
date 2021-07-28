@@ -10,4 +10,5 @@ I tried to name the textures such that any local clone of the repository would b
 
 I've been updating this repository every now and then as I create new textures or find more old ones, so if you've forked or cloned this, don't forget to at least do a `git fetch` every once in a while!
 
-These resources are available under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/), as per the [License](LICENSE) included in the repsository.
+---
+These resources are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), as per the [License](LICENSE) included in the repsository.
