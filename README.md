@@ -21,6 +21,7 @@ If any of the following apply:
 - You are on a timetable and have specific deadlines
 - You have a specific vision or specific aesthetic requirements
 - You have several requests that need filling (I reserve the right to set this threshold)
+
 ... Then I must request compensation in return. Please send me a message at mriley.texture.inquiries@gmail.com so we can discuss further!
 
 On the other hand, if all of the following apply:
@@ -28,6 +29,7 @@ On the other hand, if all of the following apply:
 - You are not on a particular timetable, and are okay with being on mine
 - You're okay with being at the mercy of my creative interpretations
 - You're okay with me potentially turning down requests that are too large or too numerous, and either or both in too short a time frame
+
 ... Then feel free to open a discussion post on this repository, or send me a message at the above eMail. If I decide take your request, in return I must insist that the resulting work be added to this repository as CC-BY-4.0, or be made publicly available with attribution and a license permitting free adaptation and redistribution. If I decide to make something for free, it will be free for everyone and on my own terms, sorry!
 
 If you have further questions please direct them to the above eMail address.
