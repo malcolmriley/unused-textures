@@ -30,7 +30,7 @@ If you (the royal you - you or your team) have a particular need and you don't s
 - You're okay with being at the mercy of my creative interpretations
 - You're okay with me potentially turning down requests that are too large or too numerous, and either or both in too short a time frame
 
-... Then feel free to open a discussion post on this repository, or send me a message at the above eMail. If I decide take your request, in return I must insist that the resulting work be added to this repository as CC-BY-4.0, or be made publicly available with attribution and a license permitting free adaptation and redistribution. If I decide to make something for free, it will be free for everyone and on my own terms, sorry!
+... Then feel free to open a discussion post on this repository, or send me a message at the above eMail. If I decide take your request, in return I must insist that the spritework work I do be added to this repository as CC-BY-4.0, or that it be made publicly available with attribution and a license permitting free adaptation and redistribution. If I decide to make something for free, it will be free for everyone and on my own terms, sorry!
 
 If you have further questions please direct them to the above eMail address.
 
