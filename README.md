@@ -9,6 +9,27 @@ Most are just simple 16x16 RGBA sprites; of those that were intended to be anima
 I tried to name the textures such that any local clone of the repository would be searchable (for instance, one can search `"blob"` to get all the "blobby" textures) but I hesitate to call the naming pattern a "system"... or even a "pattern" for that matter.
 
 I've been updating this repository every now and then as I create new textures or find more old ones, so if you've forked or cloned this, don't forget to at least do a `git fetch` every once in a while!
+---
+## Policy On Special Requests
+Since publishing this repository I've received a number of requests for spritework or assistance in that department, so I thought I'd add a note here regarding requests. Unfortunately my time is limited and I've got my own projects I'm tending to, so I can't always be of assistance. I hope you find the following policy to be a fair compromise:
+
+If you (the royal you - you or your team) have a particular need and you don't see something in this repository that suits it -
+
+If any of the following apply:
+- You wish to retain exclusive adaptation/distribution rights to the work
+- You are on a timetable and have specific deadlines
+- You have a specific vision or specific aesthetic requirements
+- You have several requests that need filling (I reserve the right to set this threshold)
+... Then I must request compensation in return. Please send me a message at mriley.texture.inquiries@gmail.com so we can discuss further!
+
+On the other hand, if all of the following apply:
+- You do not mind that the produced works are publicly available for adaptation and redistribution
+- You are not on a particular timetable, and are okay with being on mine
+- You're okay with being at the mercy of my creative interpretations
+- You're okay with me potentially turning down requests that are too large or too numerous, and either or both in too short a time frame
+... Then feel free to open a discussion post on this repository, or send me a message at the above eMail. If I decide take your request, in return I must insist that the resulting work be added to this repository as CC-BY-4.0, or be made publicly available with attribution and a license permitting free adaptation and redistribution. If I decide to make something for free, it will be free for everyone and on my own terms, sorry!
+
+If you have further questions please direct them to the above eMail address.
 
 ---
-These resources are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), as per the [License](LICENSE) included in the repsository.
+The resources in this repository are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), as per the [License](LICENSE) included.
