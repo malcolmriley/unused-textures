@@ -16,7 +16,7 @@ Since publishing this repository I've received a number of requests for spritewo
 
 If you (the royal you - you or your team) have a particular need and you don't see something in this repository that suits it -
 
-If any of the following apply:
+**If any of the following apply:**
 - You wish to retain exclusive adaptation/distribution rights to the work
 - You are on a timetable and have specific deadlines
 - You have a specific vision or specific aesthetic requirements
@@ -24,7 +24,7 @@ If any of the following apply:
 
 ... Then I must request compensation in return. Please send me a message at mriley.texture.inquiries@gmail.com so we can discuss further!
 
-On the other hand, if all of the following apply:
+**On the other hand, if all of the following apply:**
 - You do not mind that the produced works are publicly available for adaptation and redistribution
 - You are not on a particular timetable, and are okay with being on mine
 - You're okay with being at the mercy of my creative interpretations
