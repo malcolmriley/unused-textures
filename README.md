@@ -10,6 +10,15 @@ I tried to name the textures such that any local clone of the repository would b
 
 I've been updating this repository every now and then as I create new textures or find more old ones, so if you've forked or cloned this, don't forget to at least do a `git fetch` every once in a while!
 
+## Gallery View
+GitHub user [oparisblue](https://github.com/oparisblue) has created the marvelous [Minecraft Textures Viewer](https://github.com/oparisblue/minecraft-textures-viewer), allowing one to view the contents of a local folder or a GitHub repository as a *searchable* image gallery! It even reads `.mcmeta` files, so animated textures mostly appear as they would in-game. If you'd like to peruse these textures through the lens of their splendid project, [simply follow this link.](https://oparisblue.github.io/minecraft-textures-viewer/#github/malcolmriley/unused-textures/master) Great for viewing repositories such as these, or for a top-level view of your modpack, or whatever other use case you can think of.
+
+## Other Resources
+This isn't the only Minecraft-ish textures repository on GitHub, so if you're looking for more or just something different, please take a look at the links below:
+
+- [Foreck's Textures](https://github.com/Foreck1/foreck-textures)
+- [FreneticScribbler's OpenTextures](https://github.com/FreneticScribbler/OpenTextures)
+
 ---
 ## Policy On Special Requests
 Since publishing this repository I've received a number of requests for spritework or assistance in that department, so I thought I'd add a note here regarding requests. Unfortunately my time is limited and I've got my own projects I'm tending to, so I can't always be of assistance. I hope you find the following policy to be a fair compromise:
@@ -20,7 +29,7 @@ If you (the royal you - you or your team) have a particular need and you don't s
 - You wish to retain exclusive adaptation/distribution rights to the work
 - You are on a timetable and have specific deadlines
 - You have a specific vision or specific aesthetic requirements
-- You have several requests that need filling (I reserve the right to set this threshold)
+- You have many requests that need filling (I reserve the right to set this threshold)
 
 ... Then I must request compensation in return. Please send me a message at mriley.texture.inquiries@gmail.com so we can discuss further!
 
