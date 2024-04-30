@@ -18,6 +18,7 @@ This isn't the only Minecraft-ish textures repository on GitHub, so if you're lo
 
 - [Foreck's Textures](https://github.com/Foreck1/foreck-textures)
 - [FreneticScribbler's OpenTextures](https://github.com/FreneticScribbler/OpenTextures)
+- [Futureazoo's TextureRepository](https://github.com/Futureazoo/TextureRepository)
 
 ---
 ## Policy On Special Requests
